@@ -15,7 +15,7 @@ function Project(){
 const App = () => {
   return (
     <div id="main">
-          <Project></Project>
+          <Project />
     </div>
   )
 }
